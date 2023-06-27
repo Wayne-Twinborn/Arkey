@@ -1,0 +1,18 @@
+0: L2
+1: R2
+2: Circle/B
+3: X/A
+4: L1
+5: R1
+6: /\  / Y
+7: [] / X
+8: 1 (start)
+9: 2 (select)
+10: 3 (home) 
+11: 4 (Left Stick)
+12: 5 (Right Stick)
+16: D/Right
+17: 6 (for web config) / Capture
+18: W/Up
+19: S/Down
+20: A/Left
