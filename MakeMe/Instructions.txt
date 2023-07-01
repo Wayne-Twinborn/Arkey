@@ -4,8 +4,8 @@ Parts you need:
 	10 Keyboard caps to fit the switches
 	8 22mm button caps to fit the right half: https://www.amazon.com/dp/B0BKDBFBMP
 	Micro USB cable
-	The PCB
-	The case (optional)
+	The PCB (import the easyeda file into easyeda and order it through jlcpcb)
+	The case (optional, local or use SendCutSend)
 	Rubber feet (optional if not using case): https://www.amazon.com/gp/product/B07CNQC695
 
 Assembly is pretty easy. Solder all the key switches into place, solder the Pico to the board, put it in the case if you have it (case steps at the bottom), put all the caps on the switches, and configure it.
