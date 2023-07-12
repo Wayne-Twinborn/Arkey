@@ -1,5 +1,7 @@
+# WARNING: THIS HAS NOT HAD A PROTOTYPE MADE YET. ORDER AT YOUR OWN RISK. 
+
 # Nano 
-The Nano is a side project for Arkey. A form factor that's even s smaller and cheaper by basically making an ergonomic keyboard layout.
+The Nano is a side project for Arkey. A form factor that's even smaller and cheaper by basically making an ergonomic keyboard layout.
 
 ### Features:
 - Incredibly small size

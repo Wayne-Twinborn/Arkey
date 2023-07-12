@@ -30,7 +30,7 @@ If you want to contribute, the "Source" folder has all you need to work on the d
 - FreeCAD: Case design  
 - Krita: Art template  
 ### Contribution Requirements:
-You must include a description of what you've done and you must have a working PCB on hand. 
+You must include a description of what you've done and you must have a working prototype (meaning fully assembled PCB) on hand. 
 
 
 I did this for free and will continue working on it when time and money allows, but if you do want to tip, here's my Ko-fi.
