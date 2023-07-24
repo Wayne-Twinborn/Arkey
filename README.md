@@ -1,9 +1,9 @@
-# Arkey  
+![Arkey](/Resources/Logo.png)
 Arcade Keyboard. Intended to be a super small form factor WASD controller for fighting games that's cheap and easy to source.  
 
 
 ## TLDR/I wanna get one  
-You'll have to build it. I don't sell them. I'll probably gift off the batch of PCB I made. This project is to allow individuals and companies to have a cheap and easy option to build a stick. If you want to build it yourself, check the "MakeMe" folder. It has all the files you need + instructions. It's not hard but it does require soldering, at least for this revision. 
+If you want to build it yourself, check the "MakeMe" folder. You'll have to build it. I don't sell them at the moment. I'll probably gift off the batch of PCB I made. This project is to allow individuals and companies to have a cheap and easy option to build a stick.  
 
 
 ### Features:  
