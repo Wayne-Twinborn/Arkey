@@ -20,7 +20,7 @@ Hitbox style hurts my wrists and is unintuitive to me.
 My goal of giving myself a controller that suits my needs has been met. I'll continue to iterate on the design, but I want to turn it over to the community.  
 
 ### Licensing
-The project is under GPL 3 basically so that anyone can continue working on it and that work can carry forward.   
+The project is under MIT basically so that anyone can continue working on it and that work can carry forward.   
 It also lets people sell products made from it. I hope this helps get more of them into the community so it can help people with wrist issues like me.   
 The spirit of choosing this license is that I want the project to get as far as it can. I'd love for smaller producers like SGF to add the Arkey to their lineup so that people can have access to a smaller and more affordable option for WASD than is out there now.
 
