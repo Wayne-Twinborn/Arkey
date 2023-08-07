@@ -1,0 +1,18 @@
+1/start: pin 0 
+2/select: pin 1
+3/home/A1: pin 2
+4/ls: 28
+5/rs: 27
+6/cap/A2: 26
+D: 14
+S: 13
+A: 11
+W: 12
+K1/B1: 15
+K2/B2: 18
+K3/R2: 20
+K4/L2: 22
+P1/B3: 16
+P2/B4: 17 (S2/config)
+P3/R1: 19
+P4/L1: 21
