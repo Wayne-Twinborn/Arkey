@@ -1,0 +1,5 @@
+bottom 18mm
+top 13mm
+height 9.6
+8mm from base of stem
+1.5mm wall
