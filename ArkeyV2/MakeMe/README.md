@@ -46,4 +46,8 @@ Do the following in order to keep from having to disassemble partway through
 - Place the top plate over the PCB and bottom plate
 - Screw the M3 screws through the bottom plate. Do not over tighten. It should fit snug. 
 
+# Acrylic Case
+The acrylic case assembly is the same as the through hole with the exception of the acrylic panel itself. You'll want your fasteners to go through the bottom plate, top panel, and acrylic panel. This case is designed for 3mm thick laser cut acrylic. Use the DXF file in that folder.
 
+### Art
+The art template is a .kra file. This is the native format for Krita. Krita is a free and open source software that's used for painting. There's a layer for you to just drop and position your art.
