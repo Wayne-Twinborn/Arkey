@@ -51,3 +51,6 @@ The acrylic case assembly is the same as the through hole with the exception of 
 
 ### Art
 The art template is a .kra file. This is the native format for Krita. Krita is a free and open source software that's used for painting. There's a layer for you to just drop and position your art.
+For sizing, if you know how to do it you can do it yourself sizing for 189.2x119mm.
+
+If you don't, then save your art at 300 pixels per inch/dpi/ppi and resize to 2234.6x1405.5 pixels. If it doesn't let you do decimals in your art that's fine. Then make sure whatever you're printing with prints at 300 dpi. 
