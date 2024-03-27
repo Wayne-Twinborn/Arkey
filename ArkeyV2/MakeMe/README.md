@@ -5,7 +5,7 @@
 - 18 Choc v2 low profile switches
 - 10 MX keycaps
 - 8 MX buttoncaps
-- Raspberry Pi Pico (or clone board with same pinout/form factor)
+- Raspberry Pi Pico (or clone board with same pinout/form factor. NO HEADERS)
 - USB cable
 - M3 screws (10mm for through, 6mm for heatset)
 - M3 nuts (through hole case)
@@ -16,7 +16,8 @@ Do the following in order to keep from having to disassemble partway through
 # PCB
 - Order board (drop the GBR.zip file into the PCB manufacture of your choice. I use JLCPCB)
 - Solder sockets onto the back of the board
-- Solder pico to the front of the board
+- Solder pico to the front of the board 
+**IMPORTANT NOTE** this is designed to be surface mounted to the board. Do not use a pico with headers!
 - Insert your keyswitches
 - Put on your key/button caps
 
